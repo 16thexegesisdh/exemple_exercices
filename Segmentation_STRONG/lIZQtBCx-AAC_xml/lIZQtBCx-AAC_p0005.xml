@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
     <Description>
         <MeasurementUnit>pixel</MeasurementUnit>
         <sourceImageInformation>
@@ -38,9 +36,9 @@
     <Layout>
         <Page WIDTH="2499" HEIGHT="3967" PHYSICAL_IMG_NR="0" ID="page_0">
             <PrintSpace HPOS="0" VPOS="0" WIDTH="2499" HEIGHT="3967">
-                <TextBlock ID="textblock_1">
+                <TextBlock ID="block_1">
                     
-                    <TextLine ID="a2cd900a-e1a2-4476-89fb-36a7003dd51c" HPOS="467" VPOS="3486" WIDTH="368" HEIGHT="97" BASELINE="469 3548 835 3552" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_1" HPOS="467" VPOS="3486" WIDTH="368" HEIGHT="97" BASELINE="469 3548 835 3552" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="469 3548 467 3568 558 3561 683 3574 685 3574 688 3574 690 3574 703 3563 723 3581 725 3581 727 3581 730 3583 800 3583 800 3581 802 3581 805 3581 833 3561 835 3552 833 3521 805 3521 771 3495 769 3495 767 3495 765 3495 763 3495 692 3519 641 3510 619 3488 619 3486 617 3486 615 3486 540 3486 538 3486 535 3486 533 3486 533 3488 502 3517 469 3517 469 3548"/>
                         </Shape>
@@ -48,7 +46,7 @@
                     </TextLine>
 
                     
-                    <TextLine ID="3ccaa2c8-accb-44d9-8a34-8e1501ea4478" HPOS="1321" VPOS="209" WIDTH="53" HEIGHT="55" BASELINE="1325 242 1371 238" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_2" HPOS="1321" VPOS="209" WIDTH="53" HEIGHT="55" BASELINE="1325 242 1371 238" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="1325 242 1327 264 1374 262 1371 238 1365 209 1321 213 1325 242"/>
                         </Shape>
@@ -56,7 +54,7 @@
                     </TextLine>
 
                     
-                    <TextLine ID="d73c5b57-fbac-42e5-809f-6491659ffebf" HPOS="862" VPOS="3482" WIDTH="637" HEIGHT="99" BASELINE="864 3552 1499 3541" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_3" HPOS="862" VPOS="3482" WIDTH="637" HEIGHT="99" BASELINE="864 3552 1499 3541" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="864 3552 864 3563 917 3563 939 3581 941 3581 944 3581 946 3581 948 3581 1010 3561 1091 3572 1094 3572 1096 3572 1098 3572 1120 3559 1160 3576 1162 3576 1164 3576 1166 3576 1199 3559 1219 3576 1221 3576 1224 3576 1226 3576 1325 3572 1327 3572 1330 3572 1330 3570 1345 3554 1413 3554 1431 3570 1431 3572 1433 3572 1435 3572 1438 3572 1497 3559 1499 3541 1497 3495 1451 3482 1449 3482 1446 3482 1444 3482 1442 3482 1442 3484 1424 3501 1404 3484 1404 3482 1402 3482 1400 3482 1349 3482 1347 3482 1345 3482 1343 3482 1343 3484 1341 3484 1332 3495 1288 3484 1285 3484 1283 3484 1281 3484 1232 3506 1188 3488 1186 3488 1184 3488 1182 3488 1180 3488 1144 3517 957 3519 910 3499 908 3499 906 3499 904 3499 862 3517 864 3552"/>
                         </Shape>
@@ -64,7 +62,7 @@
                     </TextLine>
 
                     
-                    <TextLine ID="0c9d99c6-a51a-44f0-9f8f-a084fdd246a3" HPOS="1632" VPOS="3845" WIDTH="231" HEIGHT="73" BASELINE="1632 3881 1863 3881" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_4" HPOS="1632" VPOS="3845" WIDTH="231" HEIGHT="73" BASELINE="1632 3881 1863 3881" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="1632 3881 1632 3894 1731 3916 1861 3918 1863 3881 1861 3845 1632 3850 1632 3881"/>
                         </Shape>
@@ -72,7 +70,7 @@
                     </TextLine>
 
                 </TextBlock>
-                <TextBlock ID="a872a519-f8d5-40d1-8ef8-2018789bc5a3" HPOS="2244" VPOS="3055" WIDTH="71" HEIGHT="111" TAGREFS="REGION_TYPE_8">
+                <TextBlock ID="block_2" HPOS="2244" VPOS="3055" WIDTH="71" HEIGHT="111" TAGREFS="REGION_TYPE_8">
 <Shape>
                         <Polygon POINTS="2244 3055 2315 3055 2315 3166 2244 3166 2244 3055"/>
                     </Shape></TextBlock>

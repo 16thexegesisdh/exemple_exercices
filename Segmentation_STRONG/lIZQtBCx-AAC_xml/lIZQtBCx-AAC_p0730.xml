@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
     <Description>
         <MeasurementUnit>pixel</MeasurementUnit>
         <sourceImageInformation>
@@ -38,9 +36,9 @@
     <Layout>
         <Page WIDTH="2369" HEIGHT="3932" PHYSICAL_IMG_NR="0" ID="page_0">
             <PrintSpace HPOS="0" VPOS="0" WIDTH="2369" HEIGHT="3932">
-                <TextBlock ID="textblock_1">
+                <TextBlock ID="block_1">
                     
-                    <TextLine ID="36bfe230-6e0f-4e4a-9afc-80b5e4cdf615" HPOS="1169" VPOS="1446" WIDTH="35" HEIGHT="52" BASELINE="1175 1478 1204 1474" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_1" HPOS="1169" VPOS="1446" WIDTH="35" HEIGHT="52" BASELINE="1175 1478 1204 1474" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="1175 1478 1177 1498 1204 1498 1204 1474 1195 1446 1169 1446 1175 1478"/>
                         </Shape>
@@ -48,11 +46,11 @@
                     </TextLine>
 
                 </TextBlock>
-                <TextBlock ID="01d3a73f-0b6d-4fd4-bec4-d6f0acdb0bc4" HPOS="1373" VPOS="3774" WIDTH="549" HEIGHT="116" TAGREFS="REGION_TYPE_10">
+                <TextBlock ID="block_2" HPOS="1373" VPOS="3774" WIDTH="549" HEIGHT="116" TAGREFS="REGION_TYPE_10">
 <Shape>
                         <Polygon POINTS="1373 3774 1922 3774 1922 3890 1373 3890 1373 3774"/>
                     </Shape>
-                    <TextLine ID="a6870fd2-d728-46aa-ab74-6e6b480d10ee" HPOS="1372" VPOS="3781" WIDTH="522" HEIGHT="107" BASELINE="1372 3853 1894 3853" TAGREFS="LINE_TYPE_1">
+                    <TextLine ID="line_2" HPOS="1372" VPOS="3781" WIDTH="522" HEIGHT="107" BASELINE="1372 3853 1894 3853" TAGREFS="LINE_TYPE_1">
                         <Shape>
                             <Polygon POINTS="1372 3853 1372 3866 1427 3883 1429 3883 1431 3883 1724 3868 1761 3888 1763 3888 1765 3888 1894 3868 1894 3853 1894 3800 1818 3781 1816 3781 1813 3781 1811 3781 1776 3803 1724 3805 1671 3781 1669 3781 1606 3781 1604 3781 1601 3781 1599 3781 1599 3783 1566 3816 1372 3816 1372 3853"/>
                         </Shape>
