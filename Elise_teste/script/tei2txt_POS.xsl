@@ -15,14 +15,21 @@
         <xsl:template match="text()"/>
         <xsl:template match="teiHeader"/>
         
-  
-
+ 
+    
     <xsl:template match="cc:s">
-        <xsl:text> </xsl:text>
+        <xsl:variable name="lemmas"
+            select="string-join(cc:w[not(@lemma='@card@')]/@lemma, ' ')"/>
+        
         <xsl:value-of select="@n"/>
-        <xsl:text> </xsl:text>
-        <xsl:value-of select="string-join(cc:w[not(@lemma='@card@')]/@lemma, ' ')"/>
-        <xsl:text> &#10;</xsl:text>
+        
+        <xsl:if test="$lemmas != ''">
+            <xsl:text> </xsl:text>
+            <xsl:value-of select="$lemmas"/>
+            <xsl:text>.</xsl:text>
+        </xsl:if>
+        
+        <xsl:text>&#10;</xsl:text>
     </xsl:template>
         
     </xsl:stylesheet>
