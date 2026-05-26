@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>script/tei2txt_POS.xsl</String>
+                                    <String>script/tei2txt.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>tei2txt-POS</String>
+                                        <String>tei2txt</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -50,7 +50,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>script/Untitled.xsl</String>
+                                    <String>script/tei2txt_POS.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,11 +70,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>script/tei2txt.xsl</String>
+                                    <String>script/Untitled.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>tei2txt</String>
+                                        <String>tei2txt-POS</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -136,10 +136,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/script/tei2txt.xsl</String>
+                                    <String>file:/home/floriane/Documents/16thExegesisDH/Exemple_exercices/Elise_teste/script/tei2txt.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/home/floriane/Documents/16thExegesisDH/Example_exercices/Elise_teste/tertulien/XML/001_Tertullianus_Ad-nationes_test.xml</String>
+                                    <String>${pdu}/tertulien/XML/001_Tertullianus_Ad-nationes.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -157,7 +157,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/tertulien/TXT/001_Tertullianus_Ad-nationes.txt</String>
+                                    <String>${pd}/tertulien/TXT/001_Tertullianus_Ad-nationes_2.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

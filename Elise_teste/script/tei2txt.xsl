@@ -22,9 +22,9 @@
     </xsl:template>
     
     
-    <xsl:template match="pb">
+    <!--<xsl:template match="pb">
         <xsl:value-of select="@n"/>
         <xsl:text> </xsl:text>
-    </xsl:template>
+    </xsl:template>-->
     
 </xsl:stylesheet>
